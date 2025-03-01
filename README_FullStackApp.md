@@ -11,6 +11,7 @@ Before running the application, make sure you have:
 - **Node.js & npm** (Check with `node -v` and `npm -v`)
 - **MySQL Database** (Ensure it's running)
 - **Gradle** (Check with `gradle -v`)
+-  Run the following to generate the gradlew file: `gradle wrapper`
 
 ---
 
